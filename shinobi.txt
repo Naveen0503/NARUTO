@@ -1,3 +1,4 @@
+
 hokages:
 hashirama senju
 tobirama senju
@@ -6,4 +7,11 @@ minato namikaze
 tsunade senju
 kakashi hatake
 naruto uzumaki
+
+jonin:
+guy
+asuma
+kurenai
+shikamaru
+neji 
  
