@@ -7,6 +7,7 @@ minato namikaze
 tsunade senju
 kakashi hatake
 naruto uzumaki
+<<<<<<< HEAD
 
 jonin:
 guy
@@ -14,4 +15,16 @@ asuma
 kurenai
 shikamaru
 neji 
+=======
+chunin :
+naruto 
+sasuke 
+sakura
+choji
+ino
+rock lee
+ten ten 
+kiba
+
+>>>>>>> chunin
  
