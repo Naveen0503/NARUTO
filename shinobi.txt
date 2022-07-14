@@ -1,0 +1,9 @@
+hokages:
+hashirama senju
+tobirama senju
+hiruzen sarutobi
+minato namikaze
+tsunade senju
+kakashi hatake
+naruto uzumaki
+ 
